@@ -1,5 +1,4 @@
-
-Absolutely, let's break down this code together in English and pseudocode:
+# Linked List 
 
 Function Purpose:
 
@@ -29,4 +28,3 @@ Then, a while loop is used to traverse the linked list. As long as n is not poin
 
 Once the loop finishes iterating through all the nodes, the len variable will hold the total count of nodes in the linked list. Finally, the function returns the len variable, providing the length of the linked list.
 
-I hope this explanation clarifies the code in a way that is easy to understand!
