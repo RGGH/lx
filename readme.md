@@ -1,5 +1,7 @@
 # Linked List 
 
+## Here is an explanation of the most tricky part of the code, the length function: 
+
 Function Purpose:
 
 This function, named length, calculates the length of a linked list. In simpler terms, it counts the number of nodes present in the list.
