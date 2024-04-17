@@ -6,6 +6,8 @@ Function Purpose:
 
 This function, named length, calculates the length of a linked list. In simpler terms, it counts the number of nodes present in the list.
 
+[https://github.com/RGGH/lx/blob/main/code.png]
+
 Pseudocode:
 
 Initialize variables:
